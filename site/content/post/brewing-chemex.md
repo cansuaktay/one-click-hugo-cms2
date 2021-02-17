@@ -27,6 +27,7 @@ The most visually distinctive feature of the Chemex is the heatproof wooden coll
 
 For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
 
+
 ![coffee beans](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Roasted_coffee_beans.jpg/1280px-Roasted_coffee_beans.jpg)
 
 Here's a table
@@ -35,3 +36,12 @@ Here's a table
 |------|-------|
 |  a   |   b   |
 |  c   |   d   |
+
+This paragraph is added by HackMD.
+
+> [name=Alper Yilmaz] [time=Wed, Feb 17, 2021 10:49 PM]
+
+### todo
+
+- [X] setup blog
+- [ ] test with students
