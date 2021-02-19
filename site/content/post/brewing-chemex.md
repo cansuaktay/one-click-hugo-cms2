@@ -39,11 +39,6 @@ Here's a table
 
 This paragraph is added by HackMD.
 
-> [name=Alper Yilmaz] [time=Wed, Feb 17, 2021 10:49 PM]
-
 Can we use this in Virology lecture?
 
-### todo
 
-- [X] setup blog
-- [ ] test with students
